@@ -78,7 +78,7 @@ public class RemarkCommand extends Command {
             return true;
         }
 
-        // instanceof handles nulls
+        // instanceof handles null commands
         if (!(other instanceof RemarkCommand)) {
             return false;
         }
