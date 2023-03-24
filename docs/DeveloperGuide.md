@@ -300,7 +300,7 @@ sequence diagram:
 #### About
 sprINT offers the options to sort the applications list in two ways:
 - `sort deadline` will sort by the deadline of upcoming tasks
-- `sort alphabetical` will sort by the alphabetical order of the internship roles; if there are two internship roles 
+- `sort alphabetical` will sort by the alphabetical order of the internship roles; if there are two internship roles
 that are the same, the tiebreaker will be the alphabetical order of the company name
 
 #### Implementation
