@@ -11,12 +11,12 @@ title: Developer Guide
 
 ## **1. Introduction**
 
-### 1.1 About sprINT 
+### 1.1 About sprINT
 
-**sprINT** is an **internship-tracking application** that was created to assist students in their internship hunt. 
+**sprINT** is an **internship-tracking application** that was created to assist students in their internship hunt.
 
-Students often face a great administrative burden in keeping track of the high volume of job or internship 
-applications. With sprINT, students can easily manage details of their internship applications, including the company, 
+Students often face a great administrative burden in keeping track of the high volume of job or internship
+applications. With sprINT, students can easily manage details of their internship applications, including the company,
 contacts, status and task deadlines.
 
 ### 1.2 About this guide
@@ -25,7 +25,7 @@ This developer guide details the high-level software architecture and design dec
 It is intended for:
 
 * Advanced users who wish to get a better understanding of sprINT's features
-* Present and future developers, designers and testers of sprINT 
+* Present and future developers, designers and testers of sprINT
 
 --------------------------------------------------------------------------------------------------------------------
 
